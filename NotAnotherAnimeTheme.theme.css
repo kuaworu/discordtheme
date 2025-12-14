@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://i.pinimg.com/1200x/98/12/f2/9812f20f9c35263de19c767bf1ca45e2.jpg);
 
   /*
     Main Theme Color
@@ -31,12 +31,12 @@
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.8);
+  --theme-transparency: rgba(0, 0, 0, 0.65);
 
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://i.pinimg.com/1200x/98/12/f2/9812f20f9c35263de19c767bf1ca45e2.jpg);
 
   /*
     Change your friends icon image position
@@ -97,14 +97,14 @@
     Small User Popout
   */
   --small-user-popout-background-image: var(--theme-background-image);
-  --small-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
+  --small-user-popout-background-transparency: rgba(0, 0, 0, 0.55);
   --small-user-popout-background-image-position: center;
 
   /*
     Big User Popout
   */
   --big-user-popout-background-image: var(--theme-background-image);
-  --big-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
+  --big-user-popout-background-transparency: rgba(0, 0, 0, 0.55);
   --big-user-popout-background-image-position: center;
 
   /*
@@ -116,12 +116,12 @@
   /*
     Message Box Transparency
   */
-  --message-box-transparency: rgba(0, 0, 0, 0.6);
+  --message-box-transparency: rgba(0, 0, 0, 0.55);
 
   /*
     Embed Background Transparency
   */
-  --embed-background-transparency: rgba(0, 0, 0, 0.6);
+  --embed-background-transparency: rgba(0, 0, 0, 0.55);
 
   /*
     Message Hover Buttons
@@ -131,7 +131,7 @@
   /*
     Context Menu Transparency
   */
-  --context-menu-transparency: rgba(15, 15, 15, 0.8);
+  --context-menu-transparency: rgba(15, 15, 15, 0.85);
 
   /*
     Add Server / Discovery Icon
