@@ -1,0 +1,8 @@
+/*этот код добавлять через быстрый css, он для изменения цвета текста и шрифта*/
+div[class*="markup"] {
+  background: linear-gradient(to right, rgb(172,248,255), rgb(242,185,255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; /*чтобы действовало только на тексь, не перекрывало его полностью цветом*/
+  font-family: "Cascadia Code", monospace !important;
+  font-size: 14px;
+}
